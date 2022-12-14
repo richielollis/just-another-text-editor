@@ -9,3 +9,5 @@ This app is a text editor. It uses webpack and service workers. These allow for 
 [J.A.T.E](https://limitless-earth-25385.herokuapp.com/)
 
 ## Screenshot
+
+<img width="1291" alt="JATE screenshot" src="https://user-images.githubusercontent.com/101154093/207503216-2f62ace1-0781-4bcd-ac38-a001a65dbb0e.png">
